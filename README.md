@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## About me
 I'm soon to finish my bootcamp with HyperionDev on Software Engineering (fundamentals) and I am looking for my first junior/trainee tech role.
