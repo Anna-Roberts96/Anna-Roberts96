@@ -1,11 +1,11 @@
 # Hi there 👋
 
 ## About me
-During 2023 I undertook a government funded Skills Bootcamp in Software Engineering (fundamentals) with HyperionDev and I am looking for my first junior/trainee tech role.
+During 2023 I undertook a short Skills Bootcamp in Software Engineering (fundamentals) with HyperionDev.
 
-During my bootcamp I have been learning about all things Python, creating small programs and capstone projects with variables and booleans, if/elif/else blocks, for and while loops, lists and dictionaries, file I/O, functions and class objects.
+During my bootcamp I used Python to create small programs and capstone projects with variables and booleans, if/elif/else blocks, for and while loops, lists and dictionaries, file I/O, functions and class objects. During workshops I have also learnt some basics on SQL, HTML, CSS and Javascript and GIT.
 
-During workshops I have also learnt some basics on SQL and SQLite, HTML, CSS and Javascript, GIT and GitHub.
+I have recently started training with Sparta Global. Watch this space...
 
 ## How to reach me:
 
