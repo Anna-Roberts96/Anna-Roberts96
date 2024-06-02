@@ -5,7 +5,7 @@ During 2023 I undertook a short Skills Bootcamp in Software Engineering (fundame
 
 During my bootcamp I used Python to create small programs and capstone projects with variables and booleans, if/elif/else blocks, for and while loops, lists and dictionaries, file I/O, functions and class objects. During workshops I have also learnt some basics on SQL, HTML, CSS and Javascript and GIT.
 
-I have recently started training with Sparta Global. Watch this space...
+
 
 ## How to reach me:
 
